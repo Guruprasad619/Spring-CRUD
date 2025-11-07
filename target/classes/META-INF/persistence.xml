@@ -10,9 +10,9 @@
 				value="com.mysql.cj.jdbc.Driver" />
 			<property name="jakarta.persistence.jdbc.url"
 				value="jdbc:mysql://localhost:3306/movies?createDatabaseIfNotExist=true" />
-			<property name="jakarta.persistence.jdbc.user" value="dbname" />
+			<property name="jakarta.persistence.jdbc.user" value="root" />
 			<property name="jakarta.persistence.jdbc.password"
-				value="password" />
+				value="Guru@2003" />
 			<property name="hibernate.hbm2ddl.auto" value="update" />                            
 			<property name="hibernate.dialect"
 				value="org.hibernate.dialect.MySQLDialect" />
